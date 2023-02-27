@@ -1,9 +1,8 @@
 #include <iostream>
+#include "desejaJogar.h"
 
 int main(){
-    std::cout << "Olah mundo. " << std::endl;
-
-    std::cout << "Adicionando mais uma linha" << std::endl;
+    desejaJogar();
 
     return 0;
 }
