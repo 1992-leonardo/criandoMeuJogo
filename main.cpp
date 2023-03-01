@@ -12,5 +12,5 @@ int main(){
     nivelJogo();
     numeroSecreto();
 
-    return 0;
+    return false;
 }
